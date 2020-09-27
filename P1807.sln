@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "naumenko", "naumenko", "{9B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{CE27D9C3-5432-438D-AFFE-DD1D1F94838B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp3", "ConsoleApp3\ConsoleApp3.csproj", "{8D6B2C6B-C7ED-4B5B-A7D1-CF80A0EC6603}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{CE27D9C3-5432-438D-AFFE-DD1D1F94838B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE27D9C3-5432-438D-AFFE-DD1D1F94838B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE27D9C3-5432-438D-AFFE-DD1D1F94838B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6B2C6B-C7ED-4B5B-A7D1-CF80A0EC6603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6B2C6B-C7ED-4B5B-A7D1-CF80A0EC6603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6B2C6B-C7ED-4B5B-A7D1-CF80A0EC6603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6B2C6B-C7ED-4B5B-A7D1-CF80A0EC6603}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,6 +42,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{66D883CC-E7D8-45BD-A174-B56821BD238B} = {9BA51176-2B94-40A4-9504-FDD65B035905}
 		{CE27D9C3-5432-438D-AFFE-DD1D1F94838B} = {9BA51176-2B94-40A4-9504-FDD65B035905}
+		{8D6B2C6B-C7ED-4B5B-A7D1-CF80A0EC6603} = {9BA51176-2B94-40A4-9504-FDD65B035905}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {57855B18-EAE2-42E4-B84C-FACC4F4154B1}
