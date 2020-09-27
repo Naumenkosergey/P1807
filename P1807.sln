@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28822.285
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{66D883CC-E7D8-45BD-A174-B56821BD238B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "labs", "labs", "{50F404F4-F4F4-4CF7-8BFE-DB79C9D581DC}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Лабы\pdf\ЛАБОРАТОРНАЯ РАБОТА 2.pdf = ..\..\Лабы\pdf\ЛАБОРАТОРНАЯ РАБОТА 2.pdf
+		..\..\Лабы\pdf\ЛАБОРАТОРНАЯ РАБОТА 3.pdf = ..\..\Лабы\pdf\ЛАБОРАТОРНАЯ РАБОТА 3.pdf
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "naumenko", "naumenko", "{9BA51176-2B94-40A4-9504-FDD65B035905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{CE27D9C3-5432-438D-AFFE-DD1D1F94838B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D883CC-E7D8-45BD-A174-B56821BD238B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D883CC-E7D8-45BD-A174-B56821BD238B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D883CC-E7D8-45BD-A174-B56821BD238B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D883CC-E7D8-45BD-A174-B56821BD238B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE27D9C3-5432-438D-AFFE-DD1D1F94838B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE27D9C3-5432-438D-AFFE-DD1D1F94838B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE27D9C3-5432-438D-AFFE-DD1D1F94838B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE27D9C3-5432-438D-AFFE-DD1D1F94838B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{66D883CC-E7D8-45BD-A174-B56821BD238B} = {9BA51176-2B94-40A4-9504-FDD65B035905}
+		{CE27D9C3-5432-438D-AFFE-DD1D1F94838B} = {9BA51176-2B94-40A4-9504-FDD65B035905}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57855B18-EAE2-42E4-B84C-FACC4F4154B1}
+	EndGlobalSection
+EndGlobal
