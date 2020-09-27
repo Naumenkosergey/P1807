@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp3
 {
-    class Program
+    class Class1
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("sdfsdfadsfd");
-        }
+        //static void Main(string[] args)
+        //{
+        //    Console.WriteLine("hello");
+        //}
     }
 }
