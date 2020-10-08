@@ -70,7 +70,7 @@ namespace Students
             }
         }
 
-        static void InfoSession(Student[] students)
+        static void InfoSession(Student[] students) 
         {
             Console.WriteLine("Введите китерий среднего балла за сессию");
             double ball = double.Parse(Console.ReadLine());
